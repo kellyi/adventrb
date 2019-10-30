@@ -12,3 +12,6 @@ Style/StringLiterals:
 
 Style/FrozenStringLiteralComment:
   Enabled: false
+
+Style/IfUnlessModifier:
+  Enabled: false
