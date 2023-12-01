@@ -1,3 +1,5 @@
+require 'pry'
+
 # A module for reading data files
 module Reader
   def self.read_data_from_file(filename, custom_split_char = nil)
