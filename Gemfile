@@ -1,5 +1,5 @@
 source "https://rubygems.org" do
-  ruby "3.2.2"
+  ruby "3.3.5"
   gem "bundler"
   gem "guard"
   gem "memoist"
